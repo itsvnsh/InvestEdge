@@ -140,7 +140,7 @@ InvestEdge/
 This project is licensed under the MIT License.
 
 ### 👤 Author
-**Dhruv Sharma**  
+**Vansh Chowdhury*  
 AI & Data Science Enthusiast | Aspiring Engineer
 
 ## 📸 Project Screenshots
